@@ -13,9 +13,9 @@ set -e
 
 #install software from 'normal' repositories
 sudo apt-get install -y catfish clementine curl dconf-cli dconf-editor evolution evolution-ews focuswriter geany geary gimp gpick
-sudo apt-get install -y glances gparted grsync hardinfo meld
+sudo apt-get install -y glances gparted grsync hardinfo meld gnome-tweak-tool
 sudo apt-get install -y openshot pinta plank ppa-purge screenruler screenfetch scrot shutter slurm
-sudo apt-get install -y vlc vnstat
+sudo apt-get install -y vlc vnstat breeze-cursor-theme
 
 
 # installation of zippers and unzippers compression software
