@@ -8,7 +8,7 @@ After installing these scripts you will arrive at a different kind of PopOS
 Using the terminal and the git command
 
 	sudo apt install git
-	git clone https://github.com/
+	git clone https://github.com/skybungee/Perfect-PopOS-18.04.git
 
 
 ## Update your system.
