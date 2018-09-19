@@ -15,8 +15,8 @@ Using the terminal and the git command
 
 First update/upgrade your system.
 
-  sudo apt-get Update
-  sudp apt-get upgrade
+  	sudo apt-get Update
+  	sudp apt-get upgrade
 
 ## Software installation
 
