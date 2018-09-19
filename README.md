@@ -57,6 +57,8 @@ Plank is installed through this script
 	1-install-basic-software.sh
 
 Find plank in the menu and start it. <b>CTRL + Right-click</b> on the plank and choose preferences
+
+![Screenshots](https://github.com/skybungee/Perfect-PopOS-18.04/images/plank_menu.png)
 and put in on top. Standard you will have only 3 themes.
 
 If you want to install 100+ plank themes, you need to run this script :
