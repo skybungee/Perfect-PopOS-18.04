@@ -59,20 +59,9 @@ Plank is installed through this script
 Find plank in the menu and start it. <b>CTRL + Right-click</b> on the plank and choose preferences
 and put in on top. Standard you will have only 3 themes.
 
-![Screenshots](http://i.imgur.com/arie1IY.jpg)
-
 If you want to install 100+ plank themes, you need to run this script :
 
-	plank-themes-vx.sh
-
-Surfn icons and all plank themes
-
-![Screenshots](http://i.imgur.com/CRfb4Qo.gif)
-
-Sardi icons and all plank themes
-
-![Screenshots](http://i.imgur.com/dnmq1g0.gif)
-
+	plank-themes.sh
 
 Read more on plank e.g. how to autostart plank on boot : http://erikdubois.be/category/linux/plank/
 
