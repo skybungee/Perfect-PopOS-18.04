@@ -58,7 +58,7 @@ Plank is installed through this script
 
 Find plank in the menu and start it. <b>CTRL + Right-click</b> on the plank and choose preferences
 
-![Screenshots](https://github.com/skybungee/Perfect-PopOS-18.04/images/plank_menu.png)
+![Screenshots](https://github.com/skybungee/Perfect-PopOS-18.04/blob/master/images/plank.png)
 and put in on top. Standard you will have only 3 themes.
 
 If you want to install 100+ plank themes, you need to run this script :
