@@ -65,8 +65,6 @@ If you want to install 100+ plank themes, you need to run this script :
 
 	plank-themes.sh
 
-Read more on plank e.g. how to autostart plank on boot : http://erikdubois.be/category/linux/plank/
-
 
 # F  A  Q
 --------------------
